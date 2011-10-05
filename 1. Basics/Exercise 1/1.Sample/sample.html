@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<title>dijit.layout.BorderContainer Test</title>
+
+	<!-- required: the default dijit theme: -->
+	<link id="themeStyles" rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dijit/themes/claro/claro.css"/>
+
+	<style type="text/css">
+		body, html { width:100%; height:100%; margin:0; padding:0; overflow:hidden; }
+		
+  </style>
+
+	<!-- required: dojo.js -->
+	<script	src="https://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.xd.js"></script>
+	
+
+	<script type="text/javascript">
+			// Use dojo.require to choose which parts of dojo to load
+			dojo.require("dijit.layout.BorderContainer");
+			dojo.require("dijit.layout.ContentPane");
+
+			var bc, cp1, cp2, cp3;
+			// addOnLoad calls registered functions after the page is fully loaded
+      dojo.addOnLoad(function()
+			{				
+				// Create a new bordercontainer object. When a Dojo widget ('dijit') is created, it can be passed two arguments;
+				// 1 - An object literal defining all its arguments (matching property names with those defined in its class)
+				// 2 - A DOM id or direct reference to teh DOM object who is going to be replaced by the widget.
+				// In this case, the only argument we pass to the widget is a style string that it will decorate itself with.
+				bc = new dijit.layout.BorderContainer({style:'width:100%; height:90%;border:1px solid black'}, dojo.byId('main'));
+
+				// We create a ContentPane, which is the generic workhorse of layout and also the superclass of all layout managers
+				// As can be seen, we also define some more arguments, like region and splitter
+				// Top and bottom contentpanes should have height, but no width, where as right and bottom panes should have width but no height.
+				cp1 = new dijit.layout.ContentPane({region:'top',style:'height:100px;background-color:red',splitter:true, id:"cp1"});
+				// Since a dojo widget is a JavaScript object and not a DOM node, we can't set the innerHTML property of it directly, since it doesn't have one.
+				// Instead, most widgets have a 'domNode' proeprty which refers to the node in the DOM tree where it markup begins
+				cp1.domNode.innerHTML = "top pane";
+				bc.addChild(cp1);
+				// center pane should not have either height or width, since it accomodates itself after what is left after the other panes are defined.
+				cp2 = new dijit.layout.ContentPane({region:'center',style:'background-color:green', id:'cp2'});
+				cp2.domNode.innerHTML = "center pane";
+				bc.addChild(cp2);
+
+				cp3 = new dijit.layout.ContentPane({region:'left', splitter: true, style:'width: 100px;', id:'cp3'});
+				cp3.domNode.innerHTML = "left pane";
+				// Call startup on the bordercontainer so that it can layout itself properly
+				bc.startup();
+  		});
+
+	</script>
+</head>
+<body class="claro">
+
+	<h2>dijit.layout.BorderContainer programmatic test</h2>
+	<div id='main' ></div>
+
+	<button id="addLeft" onclick="bc.addChild(cp3);">add left pane</button>
+	<button id="removeLeft" onclick="bc.removeChild(cp3);">remove left pane</button>
+	<button id="addTop" onclick="bc.addChild(cp1);">add top pane</button>
+	<button id="removeTop" onclick="bc.removeChild(cp1);">remove top pane</button>
+</body>
+</html>
+

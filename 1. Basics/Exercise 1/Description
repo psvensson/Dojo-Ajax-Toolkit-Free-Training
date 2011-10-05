@@ -1,0 +1,10 @@
+The BorderContainer is a versatile Dojo layout widget, useful for arranging the main views of an application.
+Dojo Campus page: http://docs.dojocampus.org/dijit/layout/BorderContainer
+
+Check out the sample to see a functioning page that uses the BorderContainer.
+Then go to the exercise page and do the following;
+
+1. Add a new BorderContainer inside the contentpane 'cp2'
+3. Add three new Contentpanes to the new BorderContainer
+
+
