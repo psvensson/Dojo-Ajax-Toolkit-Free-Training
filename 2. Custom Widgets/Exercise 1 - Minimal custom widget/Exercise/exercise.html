@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<title>Basic Custom Dojo Widget Exercise - Exercise</title>
+
+	<!-- required: the default dijit theme: -->
+	<link id="themeStyles" rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dijit/themes/claro/claro.css"/>
+
+	
+	<script>
+		var dojoConfig =
+		{
+			isDebug : true,    			// Create a 'firebug-lite' debug console for older or unknown browsers at the bottom of the page
+			debugAtAllCosts: true,	// Use a slower unrolled-loading strategy for loading resources, so that errors are easier to locate
+			baseUrl : "./Exercise/",					// Where the loader should start to look for stuff
+			modulePaths : 					// Where, realtive the baseURL, each non-dojo class can be found
+			{
+				custom : "mycustom/"
+			}
+		};
+	</script>
+
+	<!-- required: dojo.js -->
+	<script	src="https://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.xd.js"></script>	
+
+	<script type="text/javascript">
+			// Use dojo.require to choose which parts of dojo to load
+			dojo.require("mycustom.foobar");
+			
+			
+			// addOnLoad calls registered functions after the page is fully loaded
+      dojo.addOnLoad(function()
+			{				
+				var foo = new mycustom.foobar({username: "Bosse"});
+				dojo.byId("main").appendChild(foo.domNode);
+				
+  		});
+
+	</script>
+</head>
+<body class="claro">
+
+	<h2>Basic Custom Widget</h2>
+	<div id="main"></div>
+	
+</body>
+</html>
+

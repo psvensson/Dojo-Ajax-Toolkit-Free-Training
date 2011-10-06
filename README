@@ -11,3 +11,6 @@ Each lesson have four parts;
 Each part should be as small as possible, but no smaller. Two-three paragraphs of description is perfect, for example.
 
 NOTE: All exercises should be accessed from a web-server, not as files loaded from a filesystem, e.g. as http://localhost/training/../foo.html *not* as file://training/.../foo.html
+
+These exercises are provided as-is by the Dojo Ajax Toolkit contributor Peter Svensson (psvensson@gmail.com) under the DWTFYW license.
+

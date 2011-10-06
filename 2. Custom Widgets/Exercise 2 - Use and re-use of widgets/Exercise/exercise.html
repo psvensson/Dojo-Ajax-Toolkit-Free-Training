@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<title>Reusing Custom Dojo Widget Exercise</title>
+
+	<!-- required: the default dijit theme: -->
+	<link id="themeStyles" rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dijit/themes/claro/claro.css"/>
+
+	
+	<script>
+		var dojoConfig =
+		{
+			isDebug : true,    			// Create a 'firebug-lite' debug console for older or unknown browsers at the bottom of the page
+			debugAtAllCosts: true,	// Use a slower unrolled-loading strategy for loading resources, so that errors are easier to locate
+			baseUrl : "./Sample/",					// Where the loader should start to look for stuff
+			modulePaths : 					// Where, realtive the baseURL, each non-dojo class can be found
+			{
+				custom : "mycustom/"
+			}
+		};
+	</script>
+
+	<!-- required: dojo.js -->
+	<script	src="https://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.xd.js"></script>	
+
+	<script type="text/javascript">
+			// Use dojo.require to choose which parts of dojo to load
+			dojo.require("mycustom.specialdialog");
+			dojo.require("dijit.form.Button");
+			
+			// addOnLoad calls registered functions after the page is fully loaded
+      dojo.addOnLoad(function()
+			{				
+				// Any arguments passed to the widget class is in the first argument (an object literal, where property names must match those defined in the class)
+				// The second argument is the DOM node where the widget is to be put. The original DOM node will be destroyed. If none are given a new DOM node
+				// is created, but the widget must then be placed explicitly somewhere in the DOM tree using the widgets 'domNode' property.
+				var dialog = new mycustom.specialdialog({caption_text: "Hi there, special<br/><br/>"});
+				var button = new dijit.form.Button({}, dojo.byId("main"));
+				dojo.connect(button, "onClick", function()
+				{
+					dialog.show();
+				});
+  		});
+
+	</script>
+</head>
+<body class="claro">
+
+	<h2>Reuse and Inheritance for Custom Widgets</h2>
+	<div id="main">Clickme</div>
+	
+	
+</body>
+</html>
+

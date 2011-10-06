@@ -1,0 +1,11 @@
+This is a very simple exercise where one learns how custom widgets works in Dojo.
+Good walkthrough can be found here: http://dojotoolkit.org/documentation/tutorials/1.6/recipes/custom_widget/
+
+The Exercise is as follows;
+
+1. Open and study the file Sample/sample.html
+2. Note that it creates a new custom widget and places it under an existing DOM node using its 'domNode' property and the standard appendChild DOM function.
+3. Create several new custom widgets of the same type, either using the same method or using a loop.
+4. Use the browser debugging tool of your choice to observe the automatic id's given to certain DOM nodes
+
+

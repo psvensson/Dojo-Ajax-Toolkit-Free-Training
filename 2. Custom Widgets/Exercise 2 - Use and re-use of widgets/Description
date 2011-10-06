@@ -1,0 +1,6 @@
+This exercise shows how to split up custom Dojo widgets into base- and sub-classes.
+
+1. Check out the sample code and make sure you understand how it works. It uses just one custom dialog widget.
+2. The exercise uses a custom widget which has the former widget as a superclass and overrides one of its functions ('_onOkClicked')
+3. Override the event handler for the cancel button as well, and make sure you log something different.
+4. (Optional) Copy the tempalte file from the base widget to the subclassed widget and modify it. make sure you override and change the 'templateString' property in the subclass.
