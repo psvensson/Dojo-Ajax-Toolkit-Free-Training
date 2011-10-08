@@ -1,0 +1,14 @@
+This is a very simple exercise, where everything is just loaded into one page. No custom widgets and no 20-page magic incantations merged into html pyramids the size of Kebnekajse.
+The idea is to show in just a page, how dojo is loaded and use the 'dojoType' property to instantiate widgets. Alla widgets can also be created programataically, but the markup way is also useful, for small pages.
+
+Some more info on dojo validation and constraints in form widgets;
+
+a. http://dojotoolkit.org/reference-guide/dijit/form/ValidationTextbox.html
+b. http://dojotoolkit.org/reference-guide/dijit/form/DateTextBox.html
+c. http://download.dojotoolkit.org/release-1.6.1/dojo-release-1.6.1/dijit/tests/form/test_Slider.html
+
+Exercise;
+
+1. Look at the Sample page and understand how it works
+2. Go to the exercise page and add the property 'dojoType="dijit.form.HorizontalSlider" ' to the div with id="slider1" under the input node with id="mydate"
+3. (Optional) Go crazy and check out the source of the page in reference (c) to get inspiration to other changes and additions.
