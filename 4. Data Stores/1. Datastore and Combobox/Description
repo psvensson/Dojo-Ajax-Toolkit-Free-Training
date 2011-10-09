@@ -1,0 +1,18 @@
+In this example, the sampe has been partially converted to use a datagrid to present the data in the html page.
+
+The datagrid needs a separate layout object that defines how it should represent the properties in the data it reads.
+The layout object declares each of the columns in the grid, and a column definition might look like this;
+
+{
+'name': 'Column 1',
+ 'field': 'id',
+ 'width': '100px'
+}
+
+The field property must match a property name in the data objects and the name property is the label of that grid column.
+The exercis is as folow;
+
+Rewrite the 'layout' objct in the foocombo.js class so that it uses the data properties defined in the exercise.html file.
+
+For more info, see; http://docs.dojocampus.org/dojox/grid/DataGrid
+
