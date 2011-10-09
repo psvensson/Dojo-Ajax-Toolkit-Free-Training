@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<title>Datastore and Combobox Exercise - Sample</title>
+
+	<!-- required: the default dijit theme: -->
+	<link id="themeStyles" rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dijit/themes/claro/claro.css"/>
+
+	
+	<script>
+		var dojoConfig =
+		{
+			isDebug : true,    			// Create a 'firebug-lite' debug console for older or unknown browsers at the bottom of the page
+			debugAtAllCosts: true,			// Use a slower unrolled-loading strategy for loading resources, so that errors are easier to locate
+			baseUrl : "./Sample/",			// Where the loader should start to look for stuff
+			modulePaths : 				// Where, relative the baseURL, each non-dojo class can be found
+			{
+				custom : "mycustom/"
+			}
+		};
+	</script>
+
+	<!-- required: dojo.js -->
+	<script	src="https://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.xd.js"></script>	
+
+	<script type="text/javascript">
+		// Use dojo.require to choose which parts of dojo to load
+		dojo.require("mycustom.foocombo");			
+	
+		// addOnLoad calls registered functions after the page is fully loaded
+		dojo.addOnLoad(function()
+		{			
+			var data = 
+			{
+				identifier:"abbreviation",
+			  	label: "name",
+			  	items: 
+				[
+					{name:"Alabama", label:"<img width='97px' height='127px' src='images/Alabama.jpg'/>Alabama",abbreviation:"AL"},
+					{name:"Alaska", label:"Alaska",abbreviation:"AK"},
+					{name:"American Samoa", label:"American Samoa",abbreviation:"AS"},
+					{name:"Arizona", label:"Arizona",abbreviation:"AZ"},
+					{name:"Arkansas", label:"Arkansas",abbreviation:"AR"}
+				]
+			};
+			var foobar = new mycustom.foocombo({data: data}, dojo.byId("main"));		
+		});
+
+	</script>
+</head>
+<body class="claro">
+
+	<h2>Datastore and Combobox</h2>
+	<div id="main"></div>
+	
+</body>
+</html>
+
