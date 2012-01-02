@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d3615af-8ece-4c20-805b-874457d71172" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Description" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Description" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html" />
     </list>
     <ignored path="Dojo-Ajax-Toolkit-Free-Training.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sample.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="sample.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="35" selection-start="1288" selection-end="1288" vertical-scroll-proportion="-20.0">
+            <state line="24" column="87" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.4368932">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Description" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Description" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Description">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="124" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.6287425">
+            <state line="35" column="124" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,9 +107,9 @@
         <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/MenuBar.js" />
         <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/ViewPort.js" />
         <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.js" />
-        <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html" />
         <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.html" />
         <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Description" />
+        <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html" />
       </list>
     </option>
   </component>
@@ -212,112 +212,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="5. Complete App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Sample App Architecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Working with App Architecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycustom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="5. Complete App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Sample App Architecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Working with App Architecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycustom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="navigator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="5. Complete App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Sample App Architecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Working with App Architecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycustom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -454,13 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="35" selection-start="1288" selection-end="1288" vertical-scroll-proportion="-20.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="28" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
@@ -477,7 +364,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Description">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="124" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.6287425">
+        <state line="35" column="124" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="87" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.4368932">
           <folding />
         </state>
       </provider>
