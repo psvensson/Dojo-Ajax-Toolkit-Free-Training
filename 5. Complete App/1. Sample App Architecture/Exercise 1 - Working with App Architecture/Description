@@ -1,3 +1,37 @@
-This exercise show how to make a simple scaffolding of an application in Dojo. It is not an exercise epr se, but shows both a simple CSS layout and how to split up separate parts of the app into subclasses.
+This exercise show how to make a simple scaffolding of an application in Dojo.
+It is not an exercise per se, but shows both a simple CSS layout and how to split up separate parts of the app into subclasses.
 
+This time we are referencing a local copy of Dojo 1.7.1, since subsequent exercises will use both the DOH testing system and the build system, both which are used from the Dojo 'util' folder
+and relies on parts of Dojo to run.
+
+The goal is to show in a series of exercises how to create a simple single-page app with Dojo which is:
+
+ 1. Object-oriented - splitting functionality across a small class-hierarchy and through a logical namespace
+ 2. Using a sensible box model CSS layout
+
+The page sample.html require's just one class, which is the widget mycustom.MainApp
+
+In the MainApp class, a template is declared which defines the uppermost layout of the application;
+
+<div class="mycustom_box">
+	<div class="mycustom_top">
+		<div class="mycustom_left"  dojoType="mycustom.navigator.ui.MenuBar"></div>
+		<div class="mycustom_right" dojoType="mycustom.common.ui.LoginWidget"></div>
+	</div>
+	<div class="mycustom_center">
+		<div dojoType="mycustom.navigator.ui.ViewPort"></div>
+	</div>
+	<div class="mycustom_bottom">
+		Bottom area
+	</div>
+</div>
+
+The application has three visual parts; A top part which contain a menu widget and a login/out widget, a central part which contains a viewport which can switch between different views, and a bottom part which contain information and links.
+Since these different parts are defined in their separate classes, with their separate template files, you get an automatic modularization that makes it less likely that different programmers
+step on each others toes when working together (or just one making a 10K lines long file...)
+
+This is a very, very simple scaffolding example which does nothing at all, but is a minimalistic proof of concept of how to start your own non-trivial Dojo application.
+
+The namespace is divided into the main parts 'common' - for classes that can be reused and are hopefully generic, and 'navigator' - for classes that are specifically implementing the logic of this application.
+I have called it 'navigator' because Internets. I have meant it to be a small app that let you navigate some space of stuff.
 
