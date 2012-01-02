@@ -1,0 +1,82 @@
+html 
+{
+	height: 						100%;
+}
+
+body 
+{
+	margin: 						0;
+	padding: 						0;
+	height: 						100%;
+}
+
+#main
+{
+	height: 						100%;
+}
+
+.mycustom_box 
+{
+
+	display: 						-webkit-box;
+	display: 						-moz-box;
+	display: 						box;
+
+	-webkit-box-orient: vertical;
+	-moz-box-orient: 		vertical;
+	box-orient: 				vertical;
+
+	box-align: 					stretch;
+	-webkit-box-align: 	stretch
+	-moz-box-align: 		stretch
+
+	height:							100%;
+	width:							100%;
+}
+
+.mycustom_top 
+{
+
+	-webkit-box-flex: 	1;
+	-moz-box-flex: 			1;
+	box-flex: 					1;
+
+	background-color: 	cyan;	
+	margin:							5px;
+	padding:						5px;
+}
+
+.mycustom_center 
+{
+	-webkit-box-flex: 	3;
+	-moz-box-flex: 			3;
+	box-flex: 					3;
+
+	background-color: 	yellow;	
+
+	margin:							5px;
+	padding:						5px;
+}
+
+.mycustom_bottom 
+{
+	
+	-webkit-box-flex: 	1;
+	-moz-box-flex: 			1;
+	box-flex: 					1;
+
+	background-color: 	orange;	
+	margin:							5px;
+	padding:						5px;
+}
+
+.mycustom_left
+{
+	float:						left;
+}
+
+.mycustom_right
+{
+	float:						right;
+}
+

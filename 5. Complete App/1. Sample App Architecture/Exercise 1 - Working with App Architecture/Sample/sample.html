@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<title>Simple Application Architecture Exercise - Sample</title>
+
+	<!-- required: the default dijit theme: -->
+	<link id="themeStyles" rel="stylesheet" href="../../../dojo-1.7.1/dijit/themes/claro/claro.css"/>
+	<link id="customStyles" rel="stylesheet" href="styles.css"/>
+	
+	<script>
+		var dojoConfig =
+		{
+			isDebug : true,    			// Create a 'firebug-lite' debug console for older or unknown browsers at the bottom of the page
+			debugAtAllCosts: true,	// Use a slower unrolled-loading strategy for loading resources, so that errors are easier to locate			
+			modulePaths : 					// Where, relative the baseURL, each non-dojo class can be found
+			{
+				mycustom : "../../1.%20Sample%20App%20Architecture/Exercise%201%20-%20Working%20with%20App%20Architecture/Sample/mycustom"
+			}
+		};
+	</script>
+
+	<!-- required: dojo.js -->
+	<script	src="../../../dojo-1.7.1/dojo/dojo.js"></script>	
+
+	<script type="text/javascript">
+        // Use dojo.require to choose which parts of dojo to load
+        dojo.require("mycustom.navigator.ui.widget.MainApp");
+
+        // addOnLoad calls registered functions after the page is fully loaded
+        dojo.addOnLoad(function()
+        {
+            var app = new mycustom.navigator.ui.widget.MainApp({}, dojo.byId("main"));
+  		});
+
+	</script>
+</head>
+<body class="claro">
+	
+	<div id="main"></div>	
+	
+</body>
+</html>
+
