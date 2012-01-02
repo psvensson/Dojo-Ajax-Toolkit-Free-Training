@@ -24,6 +24,5 @@ dojo.declare("mycustom.MainApp", [ dijit._Widget, dijit._Templated ],
 			console.log("mycustom.MainApp postCreate called.");
 
 		}
-
 		
 });

@@ -4,10 +4,13 @@ It is not an exercise per se, but shows both a simple CSS layout and how to spli
 This time we are referencing a local copy of Dojo 1.7.1, since subsequent exercises will use both the DOH testing system and the build system, both which are used from the Dojo 'util' folder
 and relies on parts of Dojo to run.
 
+I'm still using the old (pre-AMD) style of declaring classes, so Dojo will warn about some things.
+
 The goal is to show in a series of exercises how to create a simple single-page app with Dojo which is:
 
  1. Object-oriented - splitting functionality across a small class-hierarchy and through a logical namespace
  2. Using a sensible box model CSS layout
+ 3. Turn-key, so you can just copy the structure and get going modifying stuff as you please.
 
 The page sample.html require's just one class, which is the widget mycustom.MainApp
 
