@@ -25,12 +25,12 @@
 
 	<script type="text/javascript">
         // Use dojo.require to choose which parts of dojo to load
-        dojo.require("mycustom.navigator.ui.widget.MainApp");
+        dojo.require("mycustom.MainApp");
 
         // addOnLoad calls registered functions after the page is fully loaded
         dojo.addOnLoad(function()
         {
-            var app = new mycustom.navigator.ui.widget.MainApp({}, dojo.byId("main"));
+            var app = new mycustom.MainApp({}, dojo.byId("main"));
   		});
 
 	</script>

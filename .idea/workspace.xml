@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d3615af-8ece-4c20-805b-874457d71172" name="Default" comment="" />
+    <list default="true" id="7d3615af-8ece-4c20-805b-874457d71172" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/widget/MainApp.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/common/ui/widget/LoginWidget.html" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/common/ui/LoginWidget.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/common/ui/widget/LoginWidget.js" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/common/ui/LoginWidget.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/widget/MainApp.js" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/widget/MenuBar.html" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/MenuBar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/widget/MenuBar.js" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/MenuBar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/widget/ViewPort.html" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/ViewPort.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/widget/ViewPort.js" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/ViewPort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Description" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Description" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html" />
+    </list>
     <ignored path="Dojo-Ajax-Toolkit-Free-Training.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,16 +36,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sample.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sample.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="33" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.54611653">
+            <state line="32" column="35" selection-start="1288" selection-end="1288" vertical-scroll-proportion="-20.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Description" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Description">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginWidget.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/common/ui/LoginWidget.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="37" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuBar.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/MenuBar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="40" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewPort.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/ViewPort.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="41" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainApp.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="28" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainApp.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="45" selection-start="291" selection-end="291" vertical-scroll-proportion="0.1092233">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
   </component>
   <component name="Git.Settings">
     <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
@@ -41,7 +113,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Description" />
+        <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/MainApp.js" />
+        <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/common/ui/LoginWidget.js" />
+        <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/MenuBar.js" />
+        <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/ViewPort.js" />
+        <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.js" />
         <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html" />
+        <option value="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.html" />
       </list>
     </option>
   </component>
@@ -176,16 +255,42 @@
               <option name="myItemId" value="mycustom" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5. Complete App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1. Sample App Architecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise 1 - Working with App Architecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mycustom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="navigator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="widget" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -226,10 +331,6 @@
               <option name="myItemId" value="ui" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -237,6 +338,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="c30b674a-fb60-4063-8c5d-33c10896a8d6">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -268,7 +380,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="30" width="1910" height="1020" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -276,7 +388,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -332,9 +444,51 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Description">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/common/ui/LoginWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="37" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/ViewPort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="41" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/navigator/ui/MenuBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="40" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="33" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.54611653">
+        <state line="32" column="35" selection-start="1288" selection-end="1288" vertical-scroll-proportion="-20.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="28" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/mycustom/MainApp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="45" selection-start="291" selection-end="291" vertical-scroll-proportion="0.1092233">
           <folding />
         </state>
       </provider>
