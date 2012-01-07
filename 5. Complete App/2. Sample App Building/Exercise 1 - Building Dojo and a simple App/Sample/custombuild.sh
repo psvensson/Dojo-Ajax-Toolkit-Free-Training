@@ -1,0 +1,1 @@
+java -Xms256m -Xmx256m -jar ../../../dojo-1.7.1/util/shrinksafe/js.jar ../../../dojo-1.7.1/dojo/dojo.js baseUrl=../../../dojo-1.7.1/dojo load=build --package .,../../../dojo-1.7.1/dojo,../../../dojo-1.7.1/dijit --release

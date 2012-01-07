@@ -1,0 +1,95 @@
+Build started: Thu Jan 05 2012 18:25:06 GMT+0100 (CET)
+Build application version: 1.7.0dev (23930)
+Messages:
+info(100) Assumed module uses legacy loader API.
+	module: mycustom/navigator/ui/MenuBar
+	module: mycustom/MainApp
+	module: mycustom/common/ui/LoginWidget
+	module: mycustom/navigator/ui/ViewPort
+info(102) Optimizing module
+	module: dojo/dojo
+info(107) Package Version:
+	package: mycustom; version: 1.0
+	package: dijit; version: 1.7.1
+	package: dojo; version: 1.7.1
+info(108) Interning strings.
+	module: mycustom/navigator/ui/MenuBar
+	module: mycustom/MainApp
+	module: mycustom/common/ui/LoginWidget
+	module: mycustom/navigator/ui/ViewPort
+warn(216) dojo/has plugin resource could not be resolved during build-time.
+	plugin resource id: dojo-firebug?./_firebug/firebug; reference module id: dojo/main
+	plugin resource id: dom-addeventlistener?:./aspect; reference module id: dojo/on
+warn(225) A directory that was scheduled to be read during discovery did not exist.
+	directory: /home/psvensson/projects/Dojo-Ajax-Toolkit-Free-Training/5. Complete App/2. Sample App Building/Exercise 1 - Building Dojo and a simple App/Sample/dijit
+error(311) Missing dependency.
+	module: mycustom/navigator/ui/MenuBar; dependency: dijit
+	module: mycustom/navigator/ui/MenuBar; dependency: dojox
+	module: mycustom/MainApp; dependency: dijit
+	module: mycustom/MainApp; dependency: dojox
+	module: mycustom/common/ui/LoginWidget; dependency: dijit
+	module: mycustom/common/ui/LoginWidget; dependency: dojox
+	module: mycustom/navigator/ui/ViewPort; dependency: dijit
+	module: mycustom/navigator/ui/ViewPort; dependency: dojox
+error(324) Error while transforming resource.
+	resource: /home/psvensson/projects/Dojo-Ajax-Toolkit-Free-Training/5. Complete App/dojo-1.7.1/dojo/dojo.js; transform: 5; error: TypeError: Cannot call property compressScript in object [JavaPackage org.dojotoolkit.shrinksafe.Compressor]. It is not a function, it is "object".
+error(333) Missing dependency in legacy module.
+	reference module: mycustom/navigator/ui/MenuBar; dependency: dijit/_Widget
+	reference module: mycustom/navigator/ui/MenuBar; dependency: dijit/_Templated
+	reference module: mycustom/MainApp; dependency: dijit/_Widget
+	reference module: mycustom/MainApp; dependency: dijit/_Templated
+	reference module: mycustom/common/ui/LoginWidget; dependency: dijit/_Widget
+	reference module: mycustom/common/ui/LoginWidget; dependency: dijit/_Templated
+	reference module: mycustom/navigator/ui/ViewPort; dependency: dijit/_Widget
+	reference module: mycustom/navigator/ui/ViewPort; dependency: dijit/_Templated
+Layer Contents:
+dojo/dojo:
+	dojo/_base/fx
+	dojo/dom-form
+	dojo/_base/html
+	dojo/_base/kernel
+	dojo/io-query
+	dojo/_base/Deferred
+	dojo/NodeList-dom
+	dojo/query
+	dojo/has
+	dojo/_base/loader
+	dojo/json
+	dojo/_base/declare
+	dojo/dom
+	dojo/_base/browser
+	dojo/dom-style
+	dojo/dom-geometry
+	dojo/dom-prop
+	dojo/dom-attr
+	dojo/dom-construct
+	dojo/keys
+	dojo/domReady
+	dojo/_base/lang
+	dojo/Evented
+	dojo/mouse
+	dojo/topic
+	dojo/_base/xhr
+	dojo/_base/unload
+	dojo/_base/NodeList
+	dojo/_base/Color
+	dojo/selector/_loader
+	dojo/on
+	dojo/_base/sniff
+	dojo/_base/array
+	dojo/_base/json
+	dojo/dom-class
+	dojo/_base/window
+	dojo/_base/config
+	dojo/_base/event
+	dojo/main
+	dojo/ready
+	dojo/aspect
+	dojo/_base/connect
+
+
+
+Process finished normally
+	errors: 17
+	warnings: 3
+	build time: 7.743 seconds

@@ -1,0 +1,4 @@
+dependencies= {
+       insertAbsMids: 0,
+       optimize:       "shrinksafe"
+};

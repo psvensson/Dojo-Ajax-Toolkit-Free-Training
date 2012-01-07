@@ -1,0 +1,7 @@
+{
+	"name": "mycustom",
+	"version":"1.0",	
+	"main": "main",
+	"description": "It's a sample build innit?",	
+	"dojoBuild": "mycustom.profile.js"
+}

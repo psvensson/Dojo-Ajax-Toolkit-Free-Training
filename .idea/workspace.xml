@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d3615af-8ece-4c20-805b-874457d71172" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1. Basics/1. Simple Dojo Page/Exercise/exercise.html" afterPath="$PROJECT_DIR$/1. Basics/1. Simple Dojo Page/Exercise/exercise.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1. Basics/1. Simple Dojo Page/Sample/sample.html" afterPath="$PROJECT_DIR$/1. Basics/1. Simple Dojo Page/Sample/sample.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1. Basics/1. Simple Dojo Page/Solution/solution.html" afterPath="$PROJECT_DIR$/1. Basics/1. Simple Dojo Page/Solution/solution.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2. Custom Widgets/Exercise 1 - Minimal custom widget/Exercise/exercise.html" afterPath="$PROJECT_DIR$/2. Custom Widgets/Exercise 1 - Minimal custom widget/Exercise/exercise.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2. Custom Widgets/Exercise 1 - Minimal custom widget/Sample/sample.html" afterPath="$PROJECT_DIR$/2. Custom Widgets/Exercise 1 - Minimal custom widget/Sample/sample.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2. Custom Widgets/Exercise 1 - Minimal custom widget/Solution/solution.html" afterPath="$PROJECT_DIR$/2. Custom Widgets/Exercise 1 - Minimal custom widget/Solution/solution.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2. Custom Widgets/Exercise 2 - Use and re-use of widgets/Exercise/exercise.html" afterPath="$PROJECT_DIR$/2. Custom Widgets/Exercise 2 - Use and re-use of widgets/Exercise/exercise.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2. Custom Widgets/Exercise 2 - Use and re-use of widgets/Sample/sample.html" afterPath="$PROJECT_DIR$/2. Custom Widgets/Exercise 2 - Use and re-use of widgets/Sample/sample.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/1.Sample/sample.html" afterPath="$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/1.Sample/sample.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/2.Exercise/exercise.html" afterPath="$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/2.Exercise/exercise.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/3.Solution/solution.html" afterPath="$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/3.Solution/solution.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Exercise/exercise.html" afterPath="$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Exercise/exercise.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Sample/sample.html" afterPath="$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Sample/sample.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Solution/solution.html" afterPath="$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Solution/solution.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html" afterPath="$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html" />
-    </list>
+    <list default="true" id="7d3615af-8ece-4c20-805b-874457d71172" name="Default" comment="" />
     <ignored path="Dojo-Ajax-Toolkit-Free-Training.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,98 +22,7 @@
     <favorites_list name="Dojo-Ajax-Toolkit-Free-Training" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="solution.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Custom Widgets/Exercise 1 - Minimal custom widget/Solution/solution.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercise.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Custom Widgets/Exercise 2 - Use and re-use of widgets/Exercise/exercise.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Custom Widgets/Exercise 2 - Use and re-use of widgets/Sample/sample.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/1.Sample/sample.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercise.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/2.Exercise/exercise.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solution.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/3.Solution/solution.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="4" selection-start="73" selection-end="73" vertical-scroll-proportion="-2.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercise.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Exercise/exercise.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Sample/sample.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solution.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Solution/solution.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="4" selection-start="73" selection-end="73" vertical-scroll-proportion="0.07281554">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -262,404 +154,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4. Data Stores" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Datastore and Combobox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4. Data Stores" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Datastore and Combobox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Solution" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4. Data Stores" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Datastore and Combobox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4. Data Stores" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Datastore and Combobox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3. Layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Layout basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3. Layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Layout basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3.Solution" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3. Layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Layout basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2.Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3. Layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Layout basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1.Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2. Custom Widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 2 - Use and re-use of widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2. Custom Widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 2 - Use and re-use of widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2. Custom Widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 2 - Use and re-use of widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2. Custom Widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Minimal custom widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2. Custom Widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Minimal custom widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Solution" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2. Custom Widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Minimal custom widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2. Custom Widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise 1 - Minimal custom widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Simple Dojo Page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Simple Dojo Page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Solution" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Simple Dojo Page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo-Ajax-Toolkit-Free-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1. Simple Dojo Page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -818,72 +312,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. Custom Widgets/Exercise 1 - Minimal custom widget/Solution/solution.html">
+    <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Custom Widgets/Exercise 2 - Use and re-use of widgets/Exercise/exercise.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Custom Widgets/Exercise 2 - Use and re-use of widgets/Sample/sample.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/1.Sample/sample.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/2.Exercise/exercise.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/3.Solution/solution.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="73" selection-end="73" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Exercise/exercise.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Sample/sample.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
+        <state line="4" column="4" selection-start="73" selection-end="73" vertical-scroll-proportion="0.07281554">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Solution/solution.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.875">
+        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="0.05461165">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. Complete App/1. Sample App Architecture/Exercise 1 - Working with App Architecture/Sample/sample.html">
+    <entry file="file://$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Sample/sample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="0.05461165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Data Stores/1. Datastore and Combobox/Exercise/exercise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="0.05461165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/3.Solution/solution.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="4" selection-start="73" selection-end="73" vertical-scroll-proportion="0.07281554">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/2.Exercise/exercise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="0.05461165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Layout/Exercise 1 - Layout basics/1.Sample/sample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="0.05461165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Custom Widgets/Exercise 2 - Use and re-use of widgets/Sample/sample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="0.05461165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Custom Widgets/Exercise 2 - Use and re-use of widgets/Exercise/exercise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="0.05461165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Custom Widgets/Exercise 1 - Minimal custom widget/Solution/solution.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="44" selection-end="44" vertical-scroll-proportion="0.05461165">
           <folding />
         </state>
       </provider>

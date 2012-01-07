@@ -1,0 +1,14 @@
+Build started: Thu Jan 05 2012 17:59:17 GMT+0100 (CET)
+Build application version: 1.7.0dev (23930)
+Messages:
+info(107) Package Version:
+	package: mycustom; version: 1.0
+warn(225) A directory that was scheduled to be read during discovery did not exist.
+	directory: /home/psvensson/projects/Dojo-Ajax-Toolkit-Free-Training/5. Complete App/2. Sample App Building/Exercise 1 - Building Dojo and a simple App/mycustom
+Layer Contents:
+
+
+Process finished normally
+	errors: 0
+	warnings: 1
+	build time: 1.014 seconds
